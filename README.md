@@ -1,6 +1,6 @@
 # LINEAR-REGRESSION
 ## Mục tiêu của đồ án
-- tìm hiểu các yếu tố quyết định mức lương và việc làm của các
+- Tìm hiểu các yếu tố quyết định mức lương và việc làm của các
 kỹ sư ngay sau khi tốt nghiệp. Các yếu tố như điểm số ở các cấp/trường đại học, kỹ
 năng của ứng viên, sự liên kết giữa trường đại học và các khu công nghiệp/công ty
 công nghệ, bằng cấp của sinh viên và điều kiện thị trường cho các ngành công nghiệp
